@@ -1,3 +1,3 @@
 # PassengerCounter
 
-Helps keep track of passenger in a train.
+Helps keep track of passengers in a train.
